@@ -16,4 +16,4 @@ print("R$ {:07.2f}".format(1.5))  # Mostra R$ 0001.50 - Float
 
 print("R$ {:07d}".format(1))  # Mostra R$ 0000001 - Inteiro
 
-print("Data {:02d}/{:02d}".format(19,4))  # Mostra R$ 0000001 - Inteiro
+print("Data {:02d}/{:02d}".format(19, 4))  # Mostra Data 19/04 - Inteiro
