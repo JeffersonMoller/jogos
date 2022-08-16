@@ -1,5 +1,5 @@
 import adivinhacaofor
-import forcafalso
+import forca
 
 
 def jogar():
@@ -9,7 +9,7 @@ def jogar():
     if jogo == 1:
         adivinhacaofor.jogar()
     elif jogo == 2:
-        forcafalso.jogar()
+        forca.jogar()
 
 
 if __name__ == "__main__":
